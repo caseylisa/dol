@@ -1,4 +1,4 @@
-[< Back Home](index.mc)
-<h1> About This </h>
+[< Back Home](index.md)
+<h1> About This </h1>
 
 Here is some typing without an exclamation mark
